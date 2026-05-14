@@ -31,6 +31,16 @@ This project demonstrates proficiency in writing production-quality SQL across f
 
 ---
 
+## 📸 Query Results Preview
+
+### HR Demographics — Female Employees Born Before 1980 (46 rows returned)
+![SQL Employee Query](Screenshot%20SQL%201.png)
+
+### Sales Analysis — Revenue by Order, Ranked Highest to Lowest (31,465 rows)
+![SQL Sales Query](Screenshot%20SQL%202.png)
+
+---
+
 ## 📁 Repository Contents
 
 ```
